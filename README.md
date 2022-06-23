@@ -1,5 +1,5 @@
 # Census-Bureau
-Overview about the problem, Analyze Dataset of Census Bureau, Build business insights, Make Recommendation for Business, Build machine learning model(i use Catboost and Evaluate  its performance and get accuracy 90%) classification problem (income >50K or <= 50k annual income)
+Overview about the problem, Analyze Dataset of Census Bureau, Build business insights, Make Recommendation for Business, Build machine learning model(i use Catboost and Evaluate  its performance and get accuracy 90%) for classification problem (income >50K or <= 50k annual income)
 
 OverView
 
